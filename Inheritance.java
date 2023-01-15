@@ -32,6 +32,14 @@ class Cat extends Animal{
 	public void Meow()
 	{
 		System.out.println("meww " + " meww" );
-	}
+	}  
+
+
+Class Horse extends Animal{
+          String Power:
+          String  tail:
+         public void Heneww()
+ {
+      System.outprintln("HENWW"+"HEnww"):
 	
 }
